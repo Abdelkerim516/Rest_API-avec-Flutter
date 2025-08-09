@@ -1,6 +1,6 @@
 # Mini Projet Flutter – API REST (JSONPlaceholder)
 
-![Capture d’écran de l’application](assets/capture.png)
+![Capture d’écran de l’application](lib/assets/capture.png)
 
 ##  Description
 Ce projet est une application Flutter simple qui consomme l’API publique **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** pour afficher, créer, mettre à jour et supprimer des posts.  
